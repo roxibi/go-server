@@ -6,7 +6,7 @@ Branches:
 
 -simple-server: most basic server starting setup in Go
 
--movies-app: a CRUD app using an API and no database
+-movies-app: a CRUD app using an API, Gorilla MUX, and no database
 
 
 
